@@ -1,0 +1,807 @@
+id,raw_sentence,pun_type,pun_label
+hom_879,Resist everything but temptation .,homographic,0
+het_683,"I ' d like some Chinese food , said Tom wantonly .",heterographic,1
+hom_348,My boyfriend and I started to date after he backed his car into mine . We met by accident .,homographic,1
+hom_711,Those with scissors shouldn ' t use cutting words .,homographic,1
+het_111,People who like gold paint have a gilt complex .,heterographic,1
+hom_1670,Two banks with different rates have a conflict of interest .,homographic,1
+het_396,"If you want those ashes , you ' ll have to urn them .",heterographic,1
+het_1650,A bad workman blames his tools .,heterographic,0
+hom_31,Getting rid of your boat for another could cause a whole raft of problems .,homographic,1
+het_694,People have many misconceptions about pregnancy .,heterographic,1
+het_688,"I ' m not dead , I ' m metabolically challenged .",heterographic,0
+het_1547,"On Independence day , may the fourth be with you .",heterographic,1
+het_72,Leftover spaghetti is pasta its prime .,heterographic,1
+hom_1753,What did the triangle say to the circle ? You ' re so pointless .,homographic,1
+hom_1901,Fools and their money become popular quickly .,homographic,0
+het_242,Photography developers occasionally have serious emulsional problems .,heterographic,1
+hom_1826,She swallowed a peach seed and could feel it in the pit of her stomach .,homographic,1
+het_553,The cost of a galvanized hull is enough to zinc a ship .,heterographic,1
+het_731,"When a problem or dilemma arises : ' ' As plumbers say , it ' s not drain surgery . ' '",heterographic,1
+hom_1769,Never share a foxhole with anyone braver than you are .,homographic,0
+hom_156,The model who joined the air force was a bombshell .,homographic,1
+hom_611,If I want your opinion I ' ll beat it out of you !,homographic,0
+het_141,Some mathematicians are reluctant to cosine a loan .,heterographic,1
+hom_1143,VanDeGraaf charged his assistant to attend .,homographic,1
+hom_2163,A city worker who campaigned for new sewer pipes finally had to go underground .,homographic,1
+hom_1806,I wondered why the baseball was getting bigger . Then it hit me .,homographic,1
+het_644,The body builder worried too much about the lifting contest and his trainer concluded that the mind is a terrible thing to weights .,heterographic,1
+hom_1676,"' ' It ' s twelve noon , ' ' Tom chimed in .",homographic,1
+het_821,"The dentist decided he was going to try a new path to fame and fortune , and this time he would choose a different root .",heterographic,1
+het_1279,Our friends are our mirrors and show us ourselves .,heterographic,0
+het_488,John Deere has just released its most powerful tractor yet . It is the torque of the town .,heterographic,1
+het_824,"Please mix me a martini , said Tom , dryly .",heterographic,1
+hom_352,"I am not 40 , I ' m 18 with 22 years experience",homographic,0
+het_1035,When bottled water is cheap it ' s called a liquidation sale .,heterographic,1
+hom_1429,"Waiter , there ' s a fly in my soup ! ' ' At our restaurant , we guarantee You won ' t find a single fly . ' ' ' ' Whaddya mean ? ' ' ' ' Because they ' re all married . ' '",homographic,1
+hom_895,"I had some back trouble , but it ' s all behind me now .",homographic,1
+hom_1860,"I try wearing tight jeans , but I can never pull it off .",homographic,1
+hom_1679,"Long absent , soon forgotten .",homographic,0
+het_1321,Good men are hard to find .,heterographic,0
+hom_414,I tried to pack myself in a suitcase . I could hardly contain myself .,homographic,1
+hom_2200,The guy who sold his carnival got a Fair deal .,homographic,1
+hom_1353,"If you got it , flaunt it .",homographic,0
+hom_1206,My name is Sherry . I ' m a wine - master .,homographic,1
+hom_1066,Back when the news was written on clay tablets there was a lot of breaking news .,homographic,1
+hom_1021,As confused as a baby at a topless bar .,homographic,0
+het_73,"' ' This food tastes of plutonium , ' ' said Tom glowingly .",heterographic,1
+het_978,"' ' This is the most common language used on micros , ' ' said Tom basically .",heterographic,1
+hom_301,"I watched a movie about a baby hen , it was a real chick flick .",homographic,1
+hom_1472,I ' d love to change the world . . . if I can get the source code .,homographic,0
+hom_1068,My job as head chef at a top rated restaurant is in jeopardy because my latest culinary creation was called a recipe for disaster .,homographic,1
+het_1367,A frightened bird dog that runs from everything is known as the Golden Retreater .,heterographic,1
+het_850,"If you don ' t have anything nice to say , don ' t say anything at all .",heterographic,0
+het_1299,"After Jimmy swallowed a live earthworm , he sat waiting with baited breath to see if he ' d get sick .",heterographic,1
+het_213,"OLD CHINESE COOKS never die , they just wok away",heterographic,1
+het_483,A waist is a terrible thing to mind .,heterographic,1
+hom_224,His business plan to manufacture scissors just didn ' t cut it .,homographic,1
+het_1346,A fisherman took pain pills because of a persistent haddock .,heterographic,1
+het_575,A police dog is often the scenter of a drug arrest .,heterographic,1
+het_387,"My wife really likes to make pottery , but to me it ' s just kiln time .",heterographic,1
+het_997,"I need to clear my throat , said Tom phlegmatically .",heterographic,1
+hom_1091,Honor your mother and father rather than major credit cards .,homographic,1
+het_97,My name is Matt . I ' m a doorman .,heterographic,1
+het_1687,A pickle maker fell into one of the vats at work . At hospital it was determined he had a brine injury .,heterographic,1
+het_55,After burning a batch of cookies a baker felt very crummy .,heterographic,1
+hom_1585,The defendant in a coffee theft trial refused to testify on the grounds that could incriminate him .,homographic,1
+het_1359,George Westinghouse was a refrigerator magnate .,heterographic,1
+hom_1312,Banning Viagra was a big flop .,homographic,1
+hom_187,"Once the pin is pulled , Mr . Grenade is no longer a friend . . .",homographic,0
+hom_39,Did you hear about the crime that happened in a parking garage ? It was wrong on so many levels .,homographic,1
+het_1391,Astronauts like to do launch .,heterographic,1
+het_357,I had to pay to get into the annual local carnival . But that was the county fare .,heterographic,1
+het_1159,' ' Who discovered radium ? ' ' asked Tom curiously .,heterographic,1
+hom_1776,Take care of number one .,homographic,0
+hom_54,Better to be alone than in bad company .,homographic,0
+hom_1968,"She was only a Janitor ' s daughter , and she was often swept off her feet .",homographic,1
+het_908,The promises of some tailors are pure fabrication .,heterographic,1
+hom_370,"( a ) Fast , ( b ) Reliable , ( c ) Inexpensive - Pick Two .",homographic,0
+hom_998,"A boy told his parents he wanted to raise goats for a living , but he was only kidding .",homographic,1
+hom_2247,Never test for an error you don ' t know how to handle .,homographic,0
+het_4,Dentists don ' t like a hard day at the orifice .,heterographic,1
+hom_1352,The oil well driller had a boring job .,homographic,1
+hom_463,"Old lumberjacks never die , they just pine away .",homographic,1
+het_562,Some rappers are good but others are Ludacris .,heterographic,1
+hom_553,Graveyard workers really dig their jobs .,homographic,1
+het_535,Don ' t believe what you hear about fleas and ticks - - it ' s all lice .,heterographic,1
+het_930,Cane sugar can ' t be beet .,heterographic,1
+hom_847,"Doctor , Doctor , I can ' t get to sleep . - Sit on the edge of the bed and you ' ll soon drop off . Next .",homographic,1
+hom_159,"The surgeon really did not know how to perform quick surgeries on insects , but he did one on the fly .",homographic,1
+hom_1760,"I met this guy who said he loved children , then I found out he was on parole for it .",homographic,1
+hom_965,Women who seek to be equal to men lack ambition .,homographic,0
+hom_1128,That new mystery novel has a killer start to it .,homographic,1
+hom_2203,Take the will for the deed .,homographic,0
+hom_12,"Precepts teach , examples move .",homographic,0
+het_1400,Set a thief to catch a thief .,heterographic,0
+het_959,"When choosing between two evils , select the newer one .",heterographic,0
+het_234,OLD DOCTORS never die they just lose their patience .,heterographic,1
+het_641,Cheaters never prosper .,heterographic,0
+hom_1711,OLD BEEKEEPERS never die they just buzz off .,homographic,1
+hom_1990,I am kicking myself I did not take up karate earlier .,homographic,1
+het_1690,Archaeologists working at night need lots of eon lights .,heterographic,1
+hom_2244,"OLD SANITATION MEN never die , they just waste away",homographic,1
+het_1251,"OLD ELVIS IMPERSONATORS never die , they just get out of sequins .",heterographic,1
+hom_1121,Bitter pills may have blessed effects .,homographic,0
+hom_1919,Took an hour to bury the cat . Silly thing kept moving . . .,homographic,0
+hom_2050,Working for the IRS is a hard job because it is so taxing .,homographic,1
+het_1282,The humorist ' s favorite sandwich was smoked tongue on wry .,heterographic,1
+hom_292,If an animal looses its tail it should shop at a retail store .,homographic,1
+hom_447,I know road rage is an awful thing but when someone bumped my car I just couldn ' t help it . I got out my camera and snapped at the offender .,homographic,1
+het_80,Camille relocated to Little Italy : They made her a cougher ; she couldn ' t refuse,heterographic,1
+het_672,At some executive meetings there is a chairman of the bored .,heterographic,1
+het_1676,My name is Barry . I ' m an undertaker .,heterographic,1
+hom_564,Put a beggar on horseback and he ' ll ride it to death .,homographic,0
+hom_1369,I nailed my wood - shop test .,homographic,1
+het_404,Knowledge is power .,heterographic,0
+hom_704,The color of the sun in the early morning : rose .,homographic,1
+hom_509,"Comedians , the biggest joke going .",homographic,1
+hom_1731,"Two can live as cheaply as one , for half as long .",homographic,0
+hom_346,Two surgeons were joking about sutures and had each other in stitches .,homographic,1
+hom_1390,911 : Press 1 if robbery . Press 2 if house on fire . Press 3 . . .,homographic,0
+het_84,"I ' d love to , but the President said he might drop in .",heterographic,0
+het_356,"I ' m glad I know sign language , it ' s pretty handy .",heterographic,1
+hom_682,A girl a day keeps the wife away .,homographic,0
+het_1768,Herb gardeners who work extra get thyme and a half .,heterographic,1
+hom_920,An argument at the Bomb Squad convention ended in a blowup .,homographic,1
+het_189,"OLD CHEMISTS never die , they just lose their refluxes .",heterographic,1
+hom_1932,When a ladder was stolen from a store the manager said that further steps would be taken .,homographic,1
+hom_257,Hell hath no fury like a woman scorned .,homographic,0
+hom_1187,My name is Dick . I ' m a plain - clothes policeman .,homographic,1
+het_1333,Your nose is in the scenter of your face .,heterographic,1
+hom_495,"The tongue weighs very little , but few people can hold it .",homographic,1
+hom_1297,Of COURSE I ' m on topic . ( Which echo is this ? ),homographic,0
+hom_619,A racer who was also a golfer really knew how to drive .,homographic,1
+hom_525,Gunpowder was invented in a flash .,homographic,1
+het_419,Many are content to live in a coal mine and never see the son .,heterographic,1
+hom_615,I find that movies about submarines always go down well .,homographic,1
+het_1421,I ' ve made up my mind to re - lay my lawn . It was a turf decision .,heterographic,1
+het_1290,I really regretted the inconsiderate comment I made . It was rued .,heterographic,1
+het_1379,Well I ' ll be an SOB ! Tom said doggedly .,heterographic,1
+het_567,Did you hear about the nervous preacher ? He had sweaty psalms .,heterographic,1
+het_732,"' ' I only have diamonds , clubs and spades , ' ' said Tom heartlessly .",heterographic,1
+het_1595,The magician who loved his chocolate could perform a lot of Twix .,heterographic,1
+hom_913,She always paints night scenes . Other artists pale by comparison .,homographic,1
+het_147,"Dentist ' s famous last words : "" You won ' t feel a thing . . . """,heterographic,0
+hom_715,"OLD PROGRAMMERS never die , they just get bugged with life .",homographic,1
+hom_1031,"OLD NEWSPAPER PUBLISHERS never die , they just lose their circulation .",homographic,1
+hom_1047,"She was only a Librarian ' s daughter , but she was checked out from cover to cover .",homographic,1
+hom_780,What do they call all that lumber on the Star Trek ' s Enterprise ? Captain ' s log .,homographic,1
+het_1685,When I was in my cabin on the ship I got sick . Someone told me once I got to the doc I ' d feel better .,heterographic,1
+hom_490,A library should have several floors because it is a multi story building .,homographic,1
+het_1390,Some orchestra conductors make their mark in the world of opera . They were in the right aria at the right time .,heterographic,1
+het_861,The British cannibal enjoyed snacking on fish and chaps .,heterographic,1
+hom_1976,A dog gave birth to puppies near the road and was ticketed for littering .,homographic,1
+hom_10,She was suspected of stealing a brooch but they couldn ' t pin it on her .,homographic,1
+hom_2003,"I used to have a life , now I have a modem .",homographic,0
+het_643,"' ' I bought myself fifty hamburgers and I ' ve only ten left , ' ' said Tom with fortitude .",heterographic,1
+hom_2085,"He was trying to sell me new windows , but his motivations were transparent .",homographic,1
+hom_1568,Advice most needed is least heeded .,homographic,0
+het_421,If roosters saw how hens are treated they ' d turn over in their gravy .,heterographic,1
+het_247,"In his free time , my son in college hunts deer and sells the meat . He says the doe helps him with his expenses .",heterographic,1
+hom_1382,If you tell a falsehood just after waking up you are lying in bed .,homographic,1
+hom_1354,The man who worked at the watch factory was very funny . He stood about all day making faces .,homographic,1
+het_547,The best defense against logic is stupidity .,heterographic,0
+hom_44,A kettle on the stove was singing ' Home on the Range ' .,homographic,1
+het_480,A crow in a telephone booth had no money so he had to make a collect caw .,heterographic,1
+hom_576,"OLD SHOEMAKERS never die , they are just given the boot .",homographic,1
+het_1102,"A good surgeon has an eagle ' s eye , a lion ' s heart , and a lady ' s hand .",heterographic,0
+het_109,"Truth may be blamed , but it shall never be shamed .",heterographic,0
+hom_1391,People who like yogurt are well cultured .,homographic,1
+hom_1594,The environmentalist rode his bike 20 miles in the morning and 20 more in the evening . He loved recycling .,homographic,1
+het_1416,A third - generation clothes designer had it in her jeans .,heterographic,1
+hom_2138,He put bug spray on his watch to get rid of the ticks .,homographic,1
+hom_1137,Cobblers children are worst shod .,homographic,0
+hom_1321,He ' s a good letter carrier . He always keeps you posted .,homographic,1
+hom_24,OLD MECHANICS never die they just retire,homographic,1
+het_1515,"The astronomer ' s research project didn ' t win him the coveted Galaxy Award , but he did receive a constellation prize .",heterographic,1
+hom_1618,"Have an optometrist run for president , because they are people of vision .",homographic,1
+hom_2026,I ' m NOT stubborn ! You can ' t convince me otherwise ! !,homographic,0
+het_1086,She said she wasn ' t pregnant but contractions speak louder then words .,heterographic,1
+hom_247,My name is Brooks . I ' m an irrrigation consultant,homographic,1
+hom_1204,An ounce of discretion is worth a pound of wit .,homographic,0
+het_1551,"Go ahead , correct my typos . I ' ll make more .",heterographic,0
+het_591,"After a cold winter , will deciduous trees be releaved ?",heterographic,1
+het_304,What goes up must come down .,heterographic,0
+het_1749,There was a dentist who was convicted of incisor trading .,heterographic,1
+hom_1101,Eve showed up one morning wearing flowers instead of a fig leaf . She was the first woman to wear bloomers .,homographic,1
+het_39,"He threw jello at his wife , who had him arrested for carrying a congealed weapon .",heterographic,1
+het_1429,The port was very beautiful . The sailors said it was haven on earth .,heterographic,1
+het_1028,"OLD BRIDGE PLAYERS never die , they just sit around on their fat aces .",heterographic,1
+het_1375,"No book was so bad , but some good might be got out of it .",heterographic,0
+hom_1678,Beats me why anyone would want to be a masochist .,homographic,1
+hom_164,"He and his partner made knives , and they shared a cut .",homographic,1
+het_1138,Insulting an East Indian chef will bring you bad Korma .,heterographic,1
+het_321,Live and let live .,heterographic,0
+hom_952,Virginity IS curable if detected early . . .,homographic,0
+hom_151,"' ' Perhaps I will , ' ' said Tom with all his might .",homographic,1
+hom_1824,Some people still think that writing long stories is a novel idea .,homographic,1
+hom_2100,His day job was astronomy but at night time he was moonlighting .,homographic,1
+het_1249,The math teacher was a good dancer - he had algorithm .,heterographic,1
+hom_967,"No pain , no gain .",homographic,0
+hom_1981,Better is the enemy of good .,homographic,0
+het_485,The sailor called his girlfriend ' s belly ring a naval destroyer .,heterographic,1
+hom_513,"I couldn ' t quite remember how to throw a boomerang , but eventually it came back to me .",homographic,1
+hom_514,"OLD FORGERS never die , they just leave no trace .",homographic,1
+hom_443,"OLD ELECTRICIANS never die , they just lose their potential .",homographic,1
+het_1037,"I ' ll clean the chimney , said Tom , fluently",heterographic,1
+hom_1569,A cutlery manufacturing company was built at a fork in the road .,homographic,1
+hom_1218,"If a program is useful , it will have to be changed .",homographic,0
+het_832,Pray for keeps,heterographic,1
+het_272,"My name is Clarence , I specialize in end - of - season inventory closeout sales .",heterographic,1
+hom_1606,Politics makes strange bedfellows .,homographic,0
+het_566,Computer programs for gambling need beta testing .,heterographic,1
+het_991,Baseball players have to stay in line or they will be afoul of the rules .,heterographic,1
+het_558,"' ' This steamroller is amazing , ' ' said Tom flatteringly .",heterographic,1
+het_1082,"OLD CHICKEN FARMERS never die , they just end up with a dozen aches .",heterographic,1
+het_1006,I heard Einstein got along well with his parents . . . relatively speaking .,heterographic,1
+hom_285,If there ' s one person you don ' t want to interrupt in the middle of a sentence it ' s a judge .,homographic,1
+hom_2116,"I can ' t recall the last time I did any running , but I ' ve been jogging my memory .",homographic,1
+het_559,He is an excellent soup maker . You might say he is consomme professional .,heterographic,1
+hom_813,The best place for criticism is in front of your mirror .,homographic,0
+het_1751,You lamb ! said Tom sheepishly .,heterographic,1
+hom_441,OLD DEANS never die they just lose their faculties .,homographic,1
+hom_726,The most popular operation for orthopaedic surgeons is upper - leg surgery : very hip .,homographic,1
+het_1772,"Naughtily , Tom said nothing .",heterographic,1
+het_999,Two wrongs don ' t make a right .,heterographic,0
+hom_1540,A streaker was found dead this morning . Police say the details are quite revealing .,homographic,1
+het_1664,He complains wrongfully at the sea that suffer shipwreck twice .,heterographic,0
+het_1063,This is some pretty good tapioca . That ' s one way of pudding it .,heterographic,1
+het_1157,' ' Another plate of seafood for me ! ' ' Tom clamored .,heterographic,1
+het_811,"When in doubt , tell a lie",heterographic,0
+hom_503,"When the wino suspected his muscatel was watered down , he needed more proof .",homographic,1
+het_517,Take a God look at yourself .,heterographic,1
+hom_2195,"I can SPELL , I just can ' t TYPE worth a hoot !",homographic,0
+hom_1672,It ' s a good horse that never stumbles .,homographic,0
+hom_1703,Burning too much incense in a rented room could make the owner incensed .,homographic,1
+hom_794,Success is just a matter of luck . Ask any failure .,homographic,0
+het_648,"Whatever you do , act wisely , and consider the end .",heterographic,0
+hom_587,Dentists practice by going through many drills .,homographic,1
+hom_83,Superglue ! Tom rejoined .,homographic,1
+het_1234,What everybody says must be true .,heterographic,0
+het_409,Russia was slow to recover after WW2 because it kept Stalin around .,heterographic,1
+hom_698,Life after death for evil doers has always been a hot topic .,homographic,1
+het_50,Acupuncture is a jab well done .,heterographic,1
+het_1325,A good name is the best of all treasures .,heterographic,0
+hom_25,Some diets cause a gut reaction .,homographic,1
+hom_1512,The inventor of the stove top was in his element .,homographic,1
+het_101,"' ' Boy , that ' s a bright star , ' ' said Tom seriously .",heterographic,1
+het_1168,"When I was starving to death , my children gave me a raisin to keep on living .",heterographic,1
+hom_1924,I kept failing to get a job as a butcher because I couldn ' t just make the cut .,homographic,1
+hom_2029,Did you hear about the farmer who got attacked by a cow ? He milked it for all it was worth .,homographic,1
+hom_1940,Politicians get onto the merry - go - round and then put a spin on it .,homographic,1
+hom_607,What ' s good for the goose is good for the gander .,homographic,0
+het_275,Out of sight . . . Out of mind .,heterographic,0
+hom_2228,"If you have to pay to go to the river , we ' d better stop at the bank .",homographic,1
+het_20,"She was only a Farmer ' s daughter , but she was the best little hoer in the county .",heterographic,1
+het_251,The pun in the title of the play ' ' The Importance of Being Earnest ' ' was a Wilde idea .,heterographic,1
+het_313,The vendor at the Arab market resented how I haggled and told me to take a haik .,heterographic,1
+het_1433,' ' This is mutiny ! ' ' said Tom bountifully .,heterographic,1
+hom_1451,The trampoline was on sale for fifty per cent off . Needless to say I jumped on the offer .,homographic,1
+hom_1630,There ' s many a slip ' twixt cup and lip .,homographic,0
+het_1601,Runtime Error 6D at 417A : 32CF : Incompetent User .,heterographic,0
+het_1430,Without temptation there is no victory .,heterographic,0
+hom_1473,"She was only an Attorney ' s daughter , but what a will to break .",homographic,1
+het_993,"The stink bomb tossed at the standup comics ' convention quickly emptied the place out ; when the smoke cleared , not a wit of them remained .",heterographic,1
+hom_1079,You won ' t often catch loggers or farmers going against the grain .,homographic,1
+hom_2108,He became a sky diver out of the blue .,homographic,1
+het_974,"I always had wanted to know how ships really worked , and now I finally was going to sea .",heterographic,1
+hom_2025,A reporter was at an ice cream store getting the scoop .,homographic,1
+hom_876,"Old electricians never die , they just keep plugging away .",homographic,1
+het_249,The geologist went to the doctor because he had a loss of apatite .,heterographic,1
+het_1510,She didn ' t marry the gardener . Too rough around the hedges .,heterographic,1
+het_475,Every fool is pleased with his own folly .,heterographic,0
+hom_1153,A boxer who wants to get married has the ring to worry about .,homographic,1
+het_188,A farmer wanting to kill a chicken for dinner has to move faster than a speeding pullet .,heterographic,1
+het_806,"' ' I still haven ' t struck oil , ' ' said Tom boringly .",heterographic,1
+hom_1257,"When he proposed to her , she found it very engaging .",homographic,1
+het_1156,"I flunked my exam , said Tom , testily .",heterographic,1
+hom_1583,A burnt child dreads the fire .,homographic,0
+het_1512,"They were married by candle - light , but the marriage lasted only a wick .",heterographic,1
+hom_1389,The cost of the space program is astronomical .,homographic,1
+het_814,"I choked on my dessert and decided to sue , so I hired an attorney who specializes in tortes .",heterographic,1
+het_827,"When the cattlemen ' s association sponsored a track and field competition , followed by a barbecue , the commemorative T - shirt read , ' ' We loved the meet . ' '",heterographic,1
+hom_359,"I travel all over America , Tom stated .",homographic,1
+het_217,"OLD SAILORS never die , they just lose their porpoise .",heterographic,1
+het_470,Some people don ' t have the Vegas idea of how to quit gambling .,heterographic,1
+hom_1311,While the music was playing the geology teacher was rocking around .,homographic,1
+het_1323,"He that waits on another man ' s trencher , makes many a late dinner .",heterographic,0
+hom_1250,Never lie to your lawyer .,homographic,0
+hom_2150,"Pick your friends , but not to pieces",homographic,1
+hom_21,A cowboy who was also an artist could draw fast .,homographic,1
+hom_1011,Tagline dispenser temporarily out of order .,homographic,0
+hom_1148,One night a banking tycoon fell overboard from his yacht . He was saved because he could float a loan .,homographic,1
+hom_1007,A hole has been found in the nudist camp wall . The police are looking into it .,homographic,1
+hom_494,Hire teenagers while they still know everything .,homographic,0
+hom_1393,"A doorbell salesman joined the choir , and chimed right in .",homographic,1
+hom_2119,Neil Simon ' s only unsuccessful play : Chapter 11 .,homographic,1
+hom_1578,"For a long time , black holes were a dark secret .",homographic,1
+het_1715,"After winter , the trees are relieved .",heterographic,1
+hom_1305,OLD BANKERS never die they just lose interest .,homographic,1
+hom_2019,He ' d never gone hunting but decided to give it a shot .,homographic,1
+hom_1082,An apple farmer with poor yields has to get to the core of the problem .,homographic,1
+hom_2074,History is a set of lies agreed upon by the Victors,homographic,0
+het_13,"Yesterday I accidentally swallowed some food coloring . The doctor says I ' m OK , but I feel like I ' ve dyed a little inside .",heterographic,1
+hom_1626,My name is Bud . I ' m in flowers .,homographic,1
+hom_1873,"I always believed my body was a prison for me . I was right , in biology I learnt they were made of cells .",homographic,1
+het_1691,Beaver rallying cry : ' ' River be dammed ! ' ',heterographic,1
+het_1199,OLD PACIFISTS never die they just go to peaces .,heterographic,1
+hom_2225,Have an adequate day .,homographic,0
+het_666,The Spaniard ' s wife was always up before the Don .,heterographic,1
+het_1514,"The Turkish soldier refused to eat cottage cheese , because he didn ' t trust the kurds",heterographic,1
+hom_256,My name is Wade and I ' m in swimming pool maintenance .,homographic,1
+hom_2227,Those who like sport fishing can really get hooked .,homographic,1
+het_149,Nice looking glass ! said Tom reflectively .,heterographic,1
+het_724,The sheep robber was caught on the lamb .,heterographic,1
+het_1071,"Old genealogists never die , they just lose their census .",heterographic,1
+het_1463,Why was six afraid of seven ? Because seven eight nine .,heterographic,1
+hom_28,The gunman took a shot at new opportunities .,homographic,1
+hom_132,My name is Bill . I run a collection agency,homographic,1
+het_1587,Undertakers have to get up early in the mourning .,heterographic,1
+hom_1820,The organizational get together for a company football team was called a kickoff meeting .,homographic,1
+hom_1404,He had trouble in his new job making tents and got himself into a flap .,homographic,1
+het_1050,A cat that swallowed a ball of wool had mittens .,heterographic,1
+hom_1782,"He would promise to play golf , but he didn ' t know how to follow through .",homographic,1
+hom_2014,"It was the first time she ' d seen a live sponge on display , and she really soaked it in .",homographic,1
+het_497,Greys Anatomy has many humerus remarks .,heterographic,1
+het_1112,Tired well worn expressions need to be phrased out of the language .,heterographic,1
+het_1374,"Things working well , no problems . Time to upgrade .",heterographic,0
+hom_688,Pipe fitters often have high pressure jobs .,homographic,1
+hom_212,Faint heart never won fair lady .,homographic,0
+het_1652,Abstinence is a good thing if practiced in moderation,heterographic,0
+hom_262,I ' m a sap for tree jokes .,homographic,1
+het_1706,Who falls short in the head must be long in the heels .,heterographic,0
+het_451,The race horse went lame early . It was the first out of its gait .,heterographic,1
+hom_311,Cometh the hour cometh the man .,homographic,0
+hom_614,"I went to buy some property with a hill on it , but it was a little steep .",homographic,1
+hom_350,OLD PILOTS never die they just go to a higher plane .,homographic,1
+hom_1207,No news is good news .,homographic,0
+hom_30,I ' ve struck oil ! Tom gushed .,homographic,1
+hom_765,A farmer with a rip in his clothes has an overall problem .,homographic,1
+hom_728,Food for bad dogs is bought by the pound .,homographic,1
+hom_106,Wilbur Wright said he ' d take a flier on it .,homographic,1
+hom_1377,"When they bought a water bed , the couple started to drift apart .",homographic,1
+het_801,"The last will be first , and the first last .",heterographic,0
+hom_738,"When the town removed billboards , they told people that ' s how it was designed .",homographic,1
+het_1503,"OLD SCHOOL SUPERINTENDENTS   never die , they just lose their principals .",heterographic,1
+hom_689,"' ' I told you not to ride that horse , ' ' Tom nagged .",homographic,1
+hom_1985,There is a growing body of obesity research .,homographic,1
+hom_1027,"The airlines have become so cash - strapped , they charged me for my emotional baggage .",homographic,1
+hom_1662,The man who dies with the most toys is still dead .,homographic,0
+hom_404,I wanted to bring a penguin home but my parents said that wasn ' t going to fly .,homographic,1
+hom_599,"You really are addicted to soccer , you should think of kicking the habit .",homographic,1
+het_605,"I ' m simply not a nice girl , ' ' she whispered tartly .",heterographic,1
+het_634,Exposure to the Son prevents burning,heterographic,1
+hom_1592,I used to work in a blanket factory but it folded .,homographic,1
+hom_887,"A man of words and not of deeds , is like a garden full of weeds .",homographic,0
+hom_1777,"He ' s dead , Jim . Kick him if you don ' t believe me .",homographic,0
+hom_1617,"She was only a Porchclimber ' s daughter , but you should see her stoop",homographic,1
+het_1363,Another batch of shells for me ! Tom clamored .,heterographic,1
+het_670,Opportunities take ' ' now ' ' for an answer,heterographic,1
+het_410,"' ' This looks like the fruit of the blackthorn , ' ' said Tom slowly .",heterographic,1
+hom_43,Luggage salespeople have to make a good case for you to buy .,homographic,1
+het_1285,"Carmen is my favorite opera , said Tom busily .",heterographic,1
+het_680,War is God ' s way of teaching us geography .,heterographic,0
+hom_1092,"She memorized just what kind of locket she wanted , by heart .",homographic,1
+hom_2189,Birds of a feather flock together .,homographic,0
+het_838,"Press any key to continue . No , not THAT one !",heterographic,0
+hom_52,One evening King Arthur ' s men discovered Sir Lancelot ' s moonshine whiskey operation and shattered the still of the knight .,homographic,1
+het_1278,"' ' You won the bronze , ' ' said Tom meddlingly .",heterographic,1
+het_1237,I heard about this new governing document that says people can only go to the bathroom one per day . It ' s called the Constipation .,heterographic,1
+hom_1802,You have an important role as a negative example .,homographic,0
+hom_186,"Her exam was on the human skeleton , so she decided to bone up .",homographic,1
+hom_6,"86 of Borg : You will be assimilated . Would you believe , stood close to ?",homographic,0
+hom_335,God works in mysterious ways .,homographic,0
+het_869,"' ' Someone bumped into me while I was brushing my teeth , ' ' said Tom with a gleam in his eye .",heterographic,1
+het_256,Good fences make good neighbors .,heterographic,0
+hom_1006,"Old school principals never die , they just lose their faculties .",homographic,1
+het_338,' Because ' is a word to the whys .,heterographic,1
+hom_1978,They bought a home on a cliff because they liked to live on the edge .,homographic,1
+het_26,When Socrates needed to buy food he went to the grocery stoa .,heterographic,1
+hom_419,Deep calls to deep .,homographic,0
+hom_1116,"She was only a Dentist ' s daughter , but everybody wanted to fill her cavity .",homographic,1
+hom_942,"OLD SWIMMERS never die , they just have a stroke .",homographic,1
+het_1401,Cottage cheese diet : eating your curds and weigh .,heterographic,1
+het_1684,Every little helps .,heterographic,0
+hom_743,You can ' t have your cake and eat it too .,homographic,0
+hom_1341,Males who wonder why they should have a prostate exam usually get it in the end .,homographic,1
+hom_1037,OLD POLICEMEN never die they just cop out .,homographic,1
+hom_1893,Why do we have training bras ? What can we teach them ?,homographic,0
+hom_484,Oh sure ! But what ' s the speed of dark ?,homographic,0
+het_1154,Don ' t have too many irons in the fire .,heterographic,0
+hom_2051,A heavy drinker of hard liquor appears to be in high spirits .,homographic,1
+het_1543,"You can send me to college , but you can ' t make me think .",heterographic,0
+hom_1633,Reckless youth makes rueful age .,homographic,0
+het_34,The young pine sapling was admonished by his father . Apparently he ' d been knotty .,heterographic,1
+het_1172,If you have no enemies it is a sign that fortune has forgotten you .,heterographic,0
+hom_372,Take all things as they come and be content .,homographic,0
+hom_2248,OLD MUSICIANS never die they just get played out .,homographic,1
+het_173,"Poets are born , but orators are trained .",heterographic,0
+hom_1844,The agreeable tennis umpire was generous to a fault .,homographic,1
+het_407,Is there a lawyer in the house ? < BLAM ! > Is there another ?,heterographic,0
+hom_1958,A speaker at the firearms convention had to rifle through his notes .,homographic,1
+hom_395,"Doctor , Doctor , what would you take for this cold ? - Make me an offer . Next .",homographic,1
+het_987,"Even covered in salad dressing my lettuce looked bare , so I put some cloves on it .",heterographic,1
+het_1464,My name is Dustin . I ' m a school custodian,heterographic,1
+hom_1902,The apple never falls far from the tree .,homographic,0
+het_1770,While the grass grows the steed starves .,heterographic,0
+het_826,If you write bad things about me I am libel to sue you .,heterographic,1
+hom_1104,"Great beer bellies are made , not born .",homographic,0
+hom_147,"OLD STATISTICIANS never die , they just average out .",homographic,1
+het_1659,Those changing baby diapers sometimes act rashly .,heterographic,1
+het_608,A men ' s wear store has opening and clothing times .,heterographic,1
+het_1324,Look after the pennies and the pounds will look after themselves .,heterographic,0
+hom_1916,Poverty is the reward of idleness .,homographic,0
+het_1623,"If you have nothing to say , please only say it once !",heterographic,0
+het_49,When his clothes dryer broke he was lint another one .,heterographic,1
+hom_877,"OLD GARDENERS never die , they just get uprooted .",homographic,1
+hom_2118,The failure of the third largest manufacturer of baby ' s toys was enough to rattle the entire industry .,homographic,1
+hom_1274,Can I tell you a story about my bed ? I made it up .,homographic,1
+hom_905,He who does not advance goes backwards .,homographic,0
+hom_1829,Give him an inch and he ' ll take a yard .,homographic,0
+hom_1830,The price of the big fan blew me away .,homographic,1
+hom_831,Life is a game . Money is how we keep score .,homographic,0
+het_165,"The telemarketer asked me if I read magazines at all and I replied that I did , periodically .",heterographic,1
+hom_199,"' ' I couldn ' t believe there were 527 , 986 bees in the swarm ! ' ' Tom recounted .",homographic,1
+hom_396,"An undertaker can be one of your best friends , he is always the last one to let you down .",homographic,1
+hom_1505,When you can ' t decide with your friends whose place to have a party at it ' s known as party politics .,homographic,1
+het_1467,The Ennui Society elected a new chairman of the bored .,heterographic,1
+hom_1642,The earless defendant waived his hearing .,homographic,1
+het_53,I ' m spending a year dead for tax purposes .,heterographic,0
+hom_821,"OLD AUDITORS never die , they just lose their figures .",homographic,1
+het_1341,It ' s a cracked pitcher that goes longest to the well .,heterographic,0
+hom_1030,Q : River Ravi flows in which state ? A : Liquid .,homographic,1
+het_1760,My name is Derek . I ' m in the oil rig business .,heterographic,1
+hom_904,"In the house of the hanged man , mention not the rope .",homographic,0
+hom_637,"The hot dog vendor answered , with a tone quite frank .",homographic,1
+het_516,A king is old when he reaches the age of sovereignty .,heterographic,1
+hom_93,A guy became so good with a chainsaw that he was promoted to branch manager .,homographic,1
+hom_1906,"OLD YACHTSMEN never die , they just keel over .",homographic,1
+het_932,"If life gives you lemons , make lemonade .",heterographic,0
+het_1114,"He rose through the ranks of the International Corn Growers association , eventually becoming a kernel .",heterographic,1
+het_1765,Hospitals that buy in bulk get a valium discount .,heterographic,1
+het_637,"If at first you don ' t succeed , then skydiving isn ' t for you .",heterographic,0
+hom_1700,"Last week I was diagnosed with insomnia , and now I ' m just so tired of it .",homographic,1
+hom_184,"I ' d love to , but my bathroom tiles need grouting .",homographic,0
+het_1169,There is nothing new under the sun .,heterographic,0
+het_1755,"The mime wanted to say something , but he wasn ' t aloud .",heterographic,1
+het_1556,At shearing time there are some sheep thrills .,heterographic,1
+hom_1881,"Sheesh ! You start havin ' fun , and they send the lawyers !",homographic,0
+het_403,History repeats itself .,heterographic,0
+het_780,Give the devil his due .,heterographic,0
+hom_1786,He made a slow start in the sport of weightlifting but he picked it up eventually .,homographic,1
+hom_1849,Arguments about the weather will eventually blow over .,homographic,1
+hom_213,In the middle of difficulty lies opportunity .,homographic,0
+het_1357,Tact is for weenies .,heterographic,0
+hom_1688,What ' s another word for Thesaurus ?,homographic,0
+hom_818,Half a loaf is better than no bread .,homographic,0
+hom_1944,"Waiter , my bill please . - How did you find your luncheon , sir ? - With a magnifying glass .",homographic,1
+het_669,"Take me to the dance , Tom bawled .",heterographic,1
+het_389,"The astronomer made a claim about a well - known star , but it wasn ' t sirius .",heterographic,1
+hom_399,Two pencils decided to have a race . The outcome was a draw .,homographic,1
+het_1152,Her eyes were wide with longing as she peered into the Dunkin ' Donuts box and ate the last doughnut whole .,heterographic,1
+hom_625,OLD PROGRAMMERS never die they just go to bits .,homographic,1
+het_1635,"When the glazier was sent to the hospital room to check the cracked window , he told the patient in the body cast , ' ' I ' ve come to feel your pane . ' '",heterographic,1
+hom_1762,Two clock makers argued and got ticked off .,homographic,1
+hom_2125,Bowling Alley : Please be quiet . We need to hear a pin drop .,homographic,1
+hom_1759,People who eat their apples stem and seed and all improve their core values .,homographic,1
+hom_211,Little strokes fell great oaks .,homographic,0
+het_1109,Betty Crocker was a flour child .,heterographic,1
+het_1225,The bullfighter ' s display of timidity left macho to be desired .,heterographic,1
+het_15,Follow your knows .,heterographic,1
+hom_820,"Elephants will toil all day , and they work for peanuts .",homographic,1
+het_1009,How can you be so deaf with those huge ears ?,heterographic,0
+het_1111,He had need rise early who would please everybody .,heterographic,0
+hom_1114,Geology class is the foundation of a decent education .,homographic,1
+hom_2076,Leonardo Da Vinci could use a paint brush to make a stroke of genius .,homographic,1
+hom_1061,Two monocles were making love in front of a window and made spectacles of themselves .,homographic,1
+het_722,The son can warm you forever,heterographic,1
+hom_1816,"A paid up computer is , by definition , obsolete .",homographic,0
+hom_1905,"' ' I find you guilty , ' ' said the judge with conviction .",homographic,1
+het_1396,A dying artist painted himself into a coroner .,heterographic,1
+hom_757,The pen is mightier than the sword .,homographic,0
+hom_1765,Great minds agree .,homographic,0
+het_678,I went to prom with a broken leg . During the slow dances my date could tell that I had a crutch on her .,heterographic,1
+het_469,Some resist having the ' flu jab but it ' s quite innocuous .,heterographic,1
+het_1192,Light at end of tunnel temporarily out of order .,heterographic,0
+het_1380,"OLD WEATHERMEN never die , they reign forever .",heterographic,1
+hom_19,Jesus changes grave situations . Happy Easter .,homographic,1
+hom_2207,My name is Carol . I sing during the holidays .,homographic,1
+hom_2037,Swimming instructors are always getting immersed in their work .,homographic,1
+het_186,"During a recent trip to Qatar , Bill Clinton went to McDonald ' s and ordered fries with a sheik .",heterographic,1
+het_1349,Many people are strongly attracted to a magnate .,heterographic,1
+hom_475,One scabbed sheep mars the whole flock .,homographic,0
+hom_2172,A penny saved is a Congressional oversight .,homographic,0
+hom_267,OLD PRINCIPALS never die they just lose their faculties .,homographic,1
+hom_1462,The mother kangaroo tried to instill good financial habits in her baby . She told him to pocket all his allowance .,homographic,1
+hom_1903,A hangman will always keep you in the loop .,homographic,1
+het_1200,The candle - making machine broke down when someone threw a spanner in the wax .,heterographic,1
+hom_1874,"Sow thin , shear thin .",homographic,0
+hom_375,Two referees went head to head because they had a score to settle .,homographic,1
+het_696,"I can keep a secret , it ' s the people I tell who can ' t .",heterographic,0
+hom_2011,"I didn ' t know which hammer to get , but I think I nailed it .",homographic,1
+hom_2224,If you don ' t pay your exorcist you get repossessed .,homographic,1
+hom_1608,If you want a metal dog leash go to a chain store .,homographic,1
+hom_1733,Sharks don ' t eat lawyers . Professional courtesy .,homographic,0
+het_887,"The cheque is in the post , Tom assented .",heterographic,1
+het_1657,"We ' ve taken over the government , the general cooed .",heterographic,1
+het_1053,The shoemaker did not deny his apprentice anything he needed . He gave his awl .,heterographic,1
+het_1337,' ' Those cobs are amazing ! ' ' said Tom cornily .,heterographic,1
+hom_2031,Who do you have to sleep with to get service around here ?,homographic,0
+hom_469,Nothing is so smiple that it can ' t get screwed up .,homographic,0
+het_1020,"I had such a bad cold , I thought I was coffin to death .",heterographic,1
+hom_1897,Last night sex was so good the neighbors lit cigarettes .,homographic,0
+hom_600,"She was only a Magistrates daughter , but she knew what to do on the bench .",homographic,1
+hom_1223,Like cures like .,homographic,0
+het_1090,What do you call Peruvian Rorschach tests ? Inca Blots .,heterographic,1
+hom_219,"Old bakers never die , they just keep making lots of dough .",homographic,1
+hom_2184,My name is Ira . I ' m an investment advisor .,homographic,1
+hom_776,War is too important to be left to the generals .,homographic,0
+het_803,The woman who rode her broom to a croquet game was a wicket witch .,heterographic,1
+het_6,"If you can ' t be good , be careful .",heterographic,0
+het_1048,An architect knows how to make a long storey short .,heterographic,1
+hom_382,When it was lumpy he had a beef with his gravy .,homographic,1
+het_1343,It ' s easier to ask forgiveness than permission .,heterographic,0
+het_1474,You should lock up your wine in a cabernet .,heterographic,1
+het_348,Mr . Coffee returns from Soviet Russia : ' ' I have seen the future and it perks ' ',heterographic,1
+hom_1138,"Follow glory and it will flee , flee glory and it will follow thee .",homographic,0
+het_966,Give and take is fair play .,heterographic,0
+het_1378,"' ' I think I ' ll use a different font , ' ' said Tom boldly .",heterographic,1
+hom_1868,"I ' ll corroborate that again , Tom reproved .",homographic,1
+hom_1523,There is only one way to open the door and that is the key .,homographic,1
+hom_1797,"When the CEO dropped his brownie on the calculator , was he trying to fudge the numbers ?",homographic,1
+hom_912,She started a new courier business for an express purpose .,homographic,1
+hom_64,Why do those that pay the least complain the most ?,homographic,0
+het_782,"' ' I have to wear this cast for another six weeks , ' ' said Tom disjointedly .",heterographic,1
+het_611,"Shopaholics never die , they just sale away .",heterographic,1
+het_1005,"I met some cult members who worshiped soup serving utensils . I said , ' Oh ye of ladle faith . '",heterographic,1
+het_510,The prodigal son was having a bad heir day .,heterographic,1
+hom_536,"If ignorance is bliss , why aren ' t there more happy folks ?",homographic,0
+het_128,"Old is Gold , but never sold .",heterographic,0
+hom_1012,A dentist with a toothache could have a bad impact on his patients .,homographic,1
+hom_97,Don’t let adversity get you down unless you are on your knees,homographic,1
+hom_2144,OLD GUNS never die they just get loaded .,homographic,1
+het_216,The ailing king of the doves sensed an imminent coup .,heterographic,1
+hom_1896,Mason - Dixon Line n . Separates y ' all from youse guys,homographic,0
+hom_1565,"OLD GUITARISTS never die , they just become unstrung .",homographic,1
+hom_74,An electric company is always looking for high energy employees .,homographic,1
+hom_1017,"The fence builders were upset with their working conditions , so the started to picket .",homographic,1
+het_998,OLD HORSE STABLES do die but they can always be barn again,heterographic,1
+hom_1115,"It said "" Insert disk # 3 "" , but only 2 will fit !",homographic,0
+het_518,There was an orchestra conductor who threw tempo tantrums .,heterographic,1
+het_1452,My name is Stu . I also cook .,heterographic,1
+hom_1070,Strike while the iron is hot .,homographic,0
+hom_1922,Those who iron clothes have a lot of pressing demands .,homographic,1
+het_538,"I feel empty inside , Tom hollered .",heterographic,1
+het_551,"Get the stick , Rover ! Tom called fetchingly .",heterographic,1
+het_210,Don ' t put the cart before the horse .,heterographic,0
+hom_1791,Banning the bra was a big flop .,homographic,1
+hom_353,Dry cleaners are often pressed for time .,homographic,1
+het_197,Come in and get a peace of the rock,heterographic,1
+het_285,The Keystone Kops were frequently criticized for excessive use of farce .,heterographic,1
+hom_1680,"OLD CARDIOLOGISTS never die , they just lose heart .",homographic,1
+het_927,I ' ll get to it on the 2nd Tuesday of next week .,heterographic,0
+het_215,"My name is Manuel , I write instruction books .",heterographic,1
+het_1319,Have you ever been whitewater rafting ? Tom asked rapidly .,heterographic,1
+hom_921,What you see is what you get .,homographic,0
+het_1030,' Sweeney Todd ' is a good source of sheer terror .,heterographic,1
+hom_605,If all your troubles are melting away watch out for the floods .,homographic,1
+het_829,"' ' I ' m just going to put these handcuffs on you , ' ' said Tom manically .",heterographic,1
+het_265,Making up puns about the finest soil is the loess form of humor .,heterographic,1
+hom_472,None of you exist . The sysop types it all in . . .,homographic,0
+het_1395,At a flower show the first prize is often a bloom ribbon .,heterographic,1
+het_1173,The magician got so mad he pulled his hare out .,heterographic,1
+hom_2073,"I know a rancher who has 100 head of cattle , but he thought there were only 99 until he rounded them up .",homographic,1
+het_1410,Tweety of Borg : I tawt I attimilated a Puddy Tat !,heterographic,0
+hom_1576,Time and tide wait for no man .,homographic,0
+hom_138,"If you sing while playing baseball , you won ' t get a good pitch .",homographic,1
+hom_113,OLD PRINTERS never die they ' re just not the type,homographic,1
+hom_381,"OLD GOLFERS never die , they just lose their drive .",homographic,1
+hom_1995,I gave in when my wife hounded me about getting a puppy .,homographic,1
+het_548,A test - tube baby has a womb with a view .,heterographic,1
+hom_673,High on a ladder he saw a beautiful girl below . He fell for her .,homographic,1
+het_1714,Southerners are quick on the drawl .,heterographic,1
+hom_174,"' ' I make the armour out of chain links , ' ' Tom replied by mail .",homographic,1
+het_1012,"When I asked him whether we ought to climb the steep hill , he started up the incline and , in ascent , said , ' ' Yes . ' '",heterographic,1
+hom_436,What you sow is what you reap .,homographic,0
+hom_1195,The astronauts said their experience on the moon was out of this world .,homographic,1
+hom_1975,A photographer taking pictures of golfers says ' watch the birdie ' .,homographic,1
+het_713,Hot water Heaters : hot water needs heating ?,heterographic,0
+hom_745,"Tailors enjoy hanging out in internet fora , as they are full of threads .",homographic,1
+hom_680,"She was only a Farmer ' s daughter , but she knew hundreds of ways to fertilize .",homographic,1
+hom_1132,A gardener who moved back to his home town rediscovered his roots .,homographic,1
+hom_1515,My name is Candy . I ' m a confectioner .,homographic,1
+het_1775,The pirates buried their treasure in the twinkling of an aye .,heterographic,1
+hom_2064,Did you hear about the tire dealer that had a blowout sale ?,homographic,1
+hom_1231,Have you ever wondered why baseball players get girlfriends ? They ' re great at hitting it off .,homographic,1
+hom_1242,"If it screams , it ' s not food , yet . . . .",homographic,0
+hom_122,Little by little and bit by bit .,homographic,0
+het_983,Faith doesn ’ t fall apart at the seems,heterographic,1
+het_223,Chickens can give some people a foul rash .,heterographic,1
+het_325,An illiterate fisherman was lost at c .,heterographic,1
+hom_1915,The fertiliser business is a growing industry .,homographic,1
+het_296,A clean thief always makes a stainless steal .,heterographic,1
+hom_1789,Press any key to continue or any other key to quit,homographic,0
+hom_1005,It wasn ' t my fault your wife wandered into my house !,homographic,0
+het_441,Justice pleaseth few in their own house .,heterographic,0
+hom_1970,Lumber companies have many board meetings .,homographic,1
+het_1748,Idle hands are the devil ' s playthings .,heterographic,0
+het_1145,Men leap over where the hedge is lower .,heterographic,0
+het_1187,Insanity is just a state of mind .,heterographic,0
+hom_2221,We ' ll burn that bridge when we come to it .,homographic,0
+het_1129,A six foot poet stanza very tall .,heterographic,1
+het_812,"If it works , rip it apart and find out why !",heterographic,0
+het_1339,Time flies when you ’ re following the son,heterographic,1
+hom_4,A ditch digger was entrenched in his career .,homographic,1
+hom_391,"It ' s a fact , taller people sleep longer in bed .",homographic,1
+het_745,Truth will out .,heterographic,0
+hom_492,Once a drunkard always a drunkard .,homographic,0
+hom_1971,"Due to inclement weather , the sandwich shop wrapped up early Tuesday night .",homographic,1
+hom_1149,""" Happiness is a warm puppy , "" said the anaconda .",homographic,0
+het_1291,The eight chicken farmers jumped in their rowing shell and put their cox up in front .,heterographic,1
+het_54,"When asked by a Health Department official to describe the mess he saw on the slaughterhouse floor , the USDA inspector replied , ' ' It was just offal . ' '",heterographic,1
+hom_2204,OLD PAINTERS never die they just get plastered .,homographic,1
+hom_1080,"My name is Charity , a televangelist",homographic,1
+het_1591,The best goods are cheapest in the end .,heterographic,0
+hom_1909,You are confused ; but this is your normal state .,homographic,0
+hom_869,"If the shoe fits , wear it .",homographic,0
+hom_620,If you invite an insomniac to your pajama party they will be up for it .,homographic,1
+hom_1259,"When I asked the man how he became a ditch - digger , he said he just fell into it .",homographic,1
+hom_53,He stole an invention and then told patent lies .,homographic,1
+hom_397,Labor Day is a good time to stop and reflect on the august events the the preceding month .,homographic,1
+het_712,Nothing for nothing .,heterographic,0
+hom_856,"I ' ve never taken an elevator to the basement floor , that ' s just beneath me .",homographic,1
+hom_617,""" WHO CARES where Carmen Sandiego is ? """,homographic,0
+het_459,"' ' I ' m waiting to see the doctor , ' ' said Tom patiently .",heterographic,1
+hom_73,Bring me a rubber band and make it snappy !,homographic,1
+hom_240,"My name is Emmy , I ' m a T . V . star",homographic,1
+het_766,"Insanity is doing the same thing over and over , expecting different results .",heterographic,0
+het_1038,Most samurai refused to shave . They were bushi .,heterographic,1
+hom_2216,Acrobats are always doing good turns .,homographic,1
+hom_1280,He that would eat the kernel must crack the nut .,homographic,0
+het_934,"I love hockey , said Tom , puckishly .",heterographic,1
+hom_1193,My name is Rob . I ' m a thief .,homographic,1
+hom_2168,Henry perfected the Ford down to a T .,homographic,1
+hom_459,"No longer foster , no longer friend .",homographic,0
+hom_1135,Our country ' s olympic swimming program has quite a talent pool .,homographic,1
+hom_2054,Some thinkle peep I ' m under the affluence of inkohol . . .,homographic,0
+het_83,"I ' m a lion hunter , said Tom , pridefully",heterographic,1
+hom_1743,Where there ' s muck there ' s brass .,homographic,0
+hom_980,"Dear Santa , all I want is your list of naughty girls .",homographic,0
+hom_1554,My name is Lute . I ' m a musician .,homographic,1
+hom_1640,"If you can ' t beat them , join them .",homographic,0
+hom_82,Come in for a free makeover this Sunday,homographic,1
+het_1127,"' ' I ' ve got sand in my dinner , ' ' said Tom grittily .",heterographic,1
+het_1118,"c - h - r - c - h , were missing u",heterographic,1
+hom_1179,Prison walls are never built to scale .,homographic,1
+het_28,The cobbler was asked how many shoes he had soled by a well,heterographic,1
+hom_719,Someone who gossips to you will gossip about you .,homographic,0
+het_1478,Should old people feel youthless ?,heterographic,1
+hom_1039,OLD HUMAN CANNONBALLS never die they just get fired .,homographic,1
+hom_2126,The weigh - in at the Sumo wrestling tournament was a large scale effort .,homographic,1
+hom_574,Conjoined twins aren ' t the only twins with special connections .,homographic,1
+hom_1367,Ducks don ' t have their palms read - they look for it on the web .,homographic,1
+hom_2122,OLD CASHIERS never die they just check out .,homographic,1
+het_113,The self - conscious shipbuilder tried to recruit extremely sycophantic sailors to compliment her newly designed destroyer .,heterographic,1
+hom_1553,"He had to learn what the measles was , from scratch .",homographic,1
+het_628,"The class took a field trip to a meat processing plant , but what they saw was just offal .",heterographic,1
+hom_824,"Take my advice , I don ' t use it anyway .",homographic,0
+het_1110,"She was only a Coal dealer ' s daughter , but , oh , where she had bin .",heterographic,1
+hom_154,Someone who sells old chess pieces is a pawn broker .,homographic,1
+het_950,The soap - eating cult was swallowing lyes in search of the truth .,heterographic,1
+het_1322,An explosion at the meat packing plant caused quite a meatier shower .,heterographic,1
+het_865,Never insult 7 men when all you ' re packing is a 6 - shooter,heterographic,0
+hom_1488,A thousand dogs were stolen from a pet shop on Saturday . Police say they have no leads .,homographic,1
+het_976,He who takes credit for rain will be blamed for drought .,heterographic,0
+het_962,Bad is the best choice .,heterographic,0
+het_1316,Farmers can hardly wheat for a good harvest .,heterographic,1
+hom_1200,OLD INVESTORS never die they just roll over .,homographic,1
+hom_409,"OLD AUTO MECHANICS never die , they just become exhausted .",homographic,1
+hom_188,"The first duck wouldn ' t go in the water . The other duck said ' ' What are you , chicken ? ' ' .",homographic,1
+hom_489,A civil question deserves a civil answer .,homographic,0
+hom_653,It takes all sorts of people to make a world .,homographic,0
+het_1002,"' ' I visit my parents every Sunday , ' ' said Tom weakly .",heterographic,1
+hom_100,I was against the construction of tennis courts in the park as I thought they would cause too much racket .,homographic,1
+het_1095,"We ' ve taken over the government , Tom cooed",heterographic,1
+hom_941,A small boy swallowed some coins and was taken to a hospital . When his grandmother telephoned to ask how he was a nurse said ' No change yet ' .,homographic,1
+het_690,My name is Jim I train boxers,heterographic,1
+hom_1749,When the spice ships used to bring goods to the king the captain was peppered with compliments .,homographic,1
+hom_448,The worth of a thing is what it will bring .,homographic,0
+hom_1214,The boy ' s guitar teacher helped him pick up his skills .,homographic,1
+hom_1178,A lovely lady who lost her watch became a timeless beauty .,homographic,1
+hom_148,A little boy fired his light - colored crayons because they wouldn ' t show up .,homographic,1
+het_1317,"The Egyptian cinema usherette sold religious icons in the daytime . Sometimes she got confused and called out , ' Get your choc isis here ! '",heterographic,1
+hom_316,Junior loved being a member of the wrestling team even though he was prone to lose .,homographic,1
+hom_807,An unusual medical book is one which has no appendix .,homographic,1
+hom_2240,The man who worked in the gum factory fell in a vat of bubblegum . His boss had to chew him out .,homographic,1
+hom_861,I ' m going to the guillotine at dawn and my wife has already collected my severance pay .,homographic,1
+het_742,"The embarrassed news anchor was bright red , but he nor the television monitor was appropriately phased .",heterographic,1
+hom_1546,My mom ran out of poultry seasoning so she winged it .,homographic,1
+het_1373,"As you make your bed , so you will sleep on it .",heterographic,0
+hom_872,"Even if you ' re on the right track , you ' ll get run over if you just sit there .",homographic,1
+hom_2179,Archimedes set out to invent a water pump and screwed it up .,homographic,1
+het_795,"' ' I ' m putting on my T - shirt , shorts , and sunglasses , ' ' Tom summarised .",heterographic,1
+hom_1614,"OLD PHILOSOPHERS never die , they just retire to their own premises .",homographic,1
+hom_1845,This tagline no verb .,homographic,0
+het_1065,"Kentucky Fried Chicken , looking to expand into the area of low - fat dining alternatives , has begun selling popcorn . Their new motto is , ' ' Look for the kernel . ' '",heterographic,1
+het_85,Rome wasn ' t built in a day .,heterographic,0
+hom_1379,The hardest thing for a person to keep is his opinion,homographic,1
+het_1250,' ' That ' s nothing ! ' ' said Tom naughtily .,heterographic,1
+het_449,Piano players are considered to be Baldwin they lose their hair .,heterographic,1
+hom_1580,I ' m not worthless . I can always serve as a bad example .,homographic,0
+het_136,"Wife to husband , ' ' That was an explosive passage of gas , I ' d say about 8 . 0 on the sphincter scale . ' '",heterographic,1
+het_1354,A second chimney is superfluous .,heterographic,1
+het_1674,My friend is moving to Seoul . He thought it would be a good Korea move .,heterographic,1
+het_282,Are Philosophy papers graded with Marx out of ten ?,heterographic,1
+hom_210,"If you can ' t make it good , make it expensive .",homographic,0
+hom_1279,"I ' m going to be discussing global warming next week , it ' s quite a heated topic .",homographic,1
+het_286,"My dog thinks he ' s human , my cat thinks he ' s GOD .",heterographic,0
+hom_826,You can catch more flies with a drop of honey than with a barrel of vinegar .,homographic,0
+het_472,"My name is Russell , I ' m a cattle thief",heterographic,1
+hom_1925,To many girls the word ' marriage ' has a nice ring to it .,homographic,1
+het_1694,A budget helps us live below our yearnings,heterographic,1
+het_1078,My neighbor ' s sprinkler is a constant irrigation to me .,heterographic,1
+hom_1948,Upon discovering her children playing with matches their mother was flaming mad .,homographic,1
+het_57,Better an egg today than a hen tomorrow .,heterographic,0
+het_1296,A baker always put too much flour in his bread because he was a gluten for punishment .,heterographic,1
+het_1721,Cheating on a test can put honorable students in conflict with their principals .,heterographic,1
+hom_2059,I ' d give my right arm to be ambidextrous .,homographic,0
+hom_754,"Tom was so tired , he lied about his bed .",homographic,1
+hom_1545,"My mate swallowed a cordless vacuum cleaner , they took him to hospital and he is picking up nicely .",homographic,1
+hom_437,In the old days a suspended sentence was hanging .,homographic,1
+het_244,The overweight fighter pilot was grounded for violating the rules of engorgement .,heterographic,1
+het_756,The Junior NCO had sore wrists . The doctor said it was corporal tunnel syndrome .,heterographic,1
+hom_1024,"OLD ELECTRICIANS never die , they just can ' t make connections",homographic,1
+het_620,No viruses detected . Must be a pair of Nanites .,heterographic,0
+hom_67,Lawyers have to like alcohol because they ' re always being called to the bar .,homographic,1
+het_378,Learn to walk before you run .,heterographic,0
+hom_771,"I finally found a spotter at the gym , it ' s like a huge weight has been lifted off my shoulders .",homographic,1
+hom_1609,"If they ever have a contest for the best looking mannequin , there will be stiff competition .",homographic,1
+hom_1139,"She was only a Photographer ' s daughter , but she was really developed .",homographic,1
+het_51,Cows make noise only when they ' re in the mood .,heterographic,1
+het_1307,Well begun is half done .,heterographic,0
+hom_1705,Drumming is not the way to catch a hare .,homographic,0
+het_639,"When she made Mario Puzo ' s books required reading for her class , she made him an author they couldn ' t refuse .",heterographic,1
+het_379,When a college dormitory exploded a lot of roomers were flying .,heterographic,1
+het_505,Sellers of dried grapes are always raisin awareness .,heterographic,1
+het_855,"I told my friend about the creative writing class I took , and she said that she had a simile experience .",heterographic,1
+hom_1619,Go with the flow .,homographic,0
+hom_476,"Better to remain silent and be thought a fool , than to open your mouth and remove all doubt .",homographic,0
+het_1758,Of course I have backup tapes ! Do you want last years ?,heterographic,0
+het_1026,Tying up a circle may take a lot of chords .,heterographic,1
+het_433,Beware of Greeks bearing gifts .,heterographic,0
+hom_589,Curiosity didn ' t kill the cat . I got ' im with the mower !,homographic,0
+hom_983,The thought of having no alternative to soap never washed with the inventor of shower gel .,homographic,1
+hom_2167,Sushi : known to the rest of the world as ' Bait ',homographic,0
+hom_1072,"When the thief fell in the wet cement and broke both legs , he became a hardened criminal .",homographic,1
+hom_699,The man who impulsively got a cat despite his allergies later realized that it was a rash decision .,homographic,1
+hom_1224,"It ' s true that the earth rotates , but scientists are always putting their own spin on it .",homographic,1
+hom_325,A person who would make a banking joke is of no account .,homographic,1
+hom_2174,"Shock me , say something intelligent !",homographic,0
+hom_1449,"He was the most dishonest and cleverest card shark in the city , the police said he will be dealt with .",homographic,1
+hom_2132,It was a lucky car . Until he had to push his luck .,homographic,1
+hom_1175,Those who play musical instruments for radio or TV have to stay tuned .,homographic,1
+hom_949,"When I commented on a friend ' s psychedelic door he said , Don ' t Knock It .",homographic,1
+het_799,"She was only a Grape picker ' s daughter , but she was never Chablis dressed .",heterographic,1
+het_486,"I started to work at a seafood buffet , but then I pulled a mussel .",heterographic,1
+het_1445,The wolf finds a reason for taking the lamb .,heterographic,0
+hom_2187,I usually take steps to avoid elevators .,homographic,1
+het_695,You ' re only young once . You ' re immature forever .,heterographic,0
+hom_48,"OLD QUILTERS never die , they just go under cover .",homographic,1
+hom_2107,Whenever the nurses have a bad day they just keep needling people .,homographic,1
+hom_910,Pompous male bees are often known to drone on about themselves .,homographic,1
+hom_1069,"She was always calling for her twins , ' ' on the double . ' '",homographic,1
+het_1487,Baseball on a foggy day is all about hit and mist .,heterographic,1
+het_1555,A swan ' s favorite salad is Cobb salad .,heterographic,1
+hom_634,We should not expect to find old heads on young shoulders .,homographic,0
+hom_1087,All are not friends who speak one fair .,homographic,0
+het_1306,paranoia : believing this tagline is about you .,heterographic,0
+het_1328,"That ' s no beagle ; that ' s a mongrel , Tom muttered .",heterographic,1
+hom_2205,We must take the bad with the good .,homographic,0
+het_1394,"OLD DIETICIANS never die , they just waist away",heterographic,1
+het_432,Much bran and little meal .,heterographic,0
+het_1293,A son is a son ' till he gets him a wife ; a daughter ' s a daughter all her life .,heterographic,0
+het_894,The door swings both ways .,heterographic,0
+hom_684,"My name is Joe , an espresso vender",homographic,1
+hom_1107,"If you breathe heavily on the map , it will reveal topography , ' he said , with a sigh of relief .",homographic,1
+het_569,Bumper Sticker : HORN NOT WORKING - - WATCH FOR HAND SIGNALS .,heterographic,0
+hom_1401,"When I had my PlayStation stolen , my family were there to console me .",homographic,1
+hom_1544,"OLD GAMBLERS never die , they just get discarded .",homographic,1
+het_264,The cat in northern Scandinavia always had a lapp to sit on .,heterographic,1
+hom_379,Procrastination Day Has Been Postponed !,homographic,0
+hom_735,De Broglie waved aside the invitation .,homographic,1
+hom_1045,"The man found something to catch fish , which was a net gain .",homographic,1
+het_1572,My wife is trying to lose weight but continues to frequent the coffee shops for rich beverages and delicacies . You could say she is making a moccary of her diet .,heterographic,1
+het_1597,"Did you hear about my friend who hired out vampires and poison , and my other friend who ate children ? Could say the first one was the lessor of two evils .",heterographic,1
+hom_1966,Retired teachers are classless .,homographic,1
+hom_1926,A pair of loud twins were stereo speakers .,homographic,1
+het_1532,"' ' This boat is leaking , ' ' said Tom balefully .",heterographic,1
+hom_652,A cynic smells flowers and looks for the casket .,homographic,0
+hom_1986,I tinted my hair today . It was the highlight of my day .,homographic,1
+het_1720,Learning is the eye of the mind .,heterographic,0
+hom_1358,He has been a jogger for three years running .,homographic,1
+hom_829,"She was only a Convict ' s daughter , but she sure knew all of the bars .",homographic,1
+het_64,"' ' I ' ve been listening to the Brandenburg Concertos , ' ' Tom barked .",heterographic,1
+het_765,"The cd salesman said , ' ' The classical music section is right over there , ' ' as he smoothed his pencil - thin mustache and spread another handful of Brylcreem on his hair .",heterographic,1
+het_1742,Church disputes can be settled with canons .,heterographic,1
+hom_1322,Footprints on the sands of time are not made by sitting down .,homographic,0
+het_1261,They tried to save him with an I . V . but it was all in vein .,heterographic,1
